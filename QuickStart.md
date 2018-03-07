@@ -31,7 +31,7 @@ From Netbeans menu, choose File->New Project
 
 Next, select Java Web -> Web Application:
 
- 
+[NetBeans_WebApplication](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/NetBeans_WebApplication.gif)
 
 ## Adding Web Service Client Reference
 
