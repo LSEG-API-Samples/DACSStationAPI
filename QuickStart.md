@@ -92,12 +92,15 @@ When Netbeans offers to resolve references by including imports, say "Ok".
 
 Now put your cursor after main ends, right-click, choose "Insert Code" abd select "Call Web Service Operation":
 
+![InsertWSOp](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/InsertWSOp.gif)
 
 Expand to and select "getVersion".
 
 The method call should be added to the class and be ready to use:
 
+![getVersion](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/getVersion.gif)
 
 Now to the end of our main we add a call to the method and print out the results:
 
+![getVersionCall](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/getVersionCall.gif)
 
