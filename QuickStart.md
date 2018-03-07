@@ -70,4 +70,34 @@ complete with all the method calls:
 
 ## Submitting a Simple Request
 
+We are going to create a simple single class java concole app. 
+
+In Projects pane, right-click aon the new project and select "New Java class".
+
+Edit the source code.  Within the newly created class, create "main" with the "scaffolding" that is necessary to call the webservice:
+
+    public static void main(String[] args) { 
+        DacsAdministratorName dan = new DacsAdministratorName();
+        dan.setMAdministratorName("MY_DACS_ADMIN_USER");
+        DacsAdministratorPassword dap = new DacsAdministratorPassword();
+        dap.setMAdministratorPassword("MY_DACS_PASSWORD");
+        DacsAdministratorLogin dal = new DacsAdministratorLogin();
+        dal.setAAdministratorName(dan);
+        dal.setAAdministratorPassword(dap);
+        DacsApplicationDefinition dad = new DacsApplicationDefinition();
+        dad.setMApplicationName("goodTestApp1");
+        dad.setMApplicationId(777); //My app id
+
+When Netbeans offers to resolve references by including imports, say "Ok".
+
+Now put your cursor after main ends, right-click, choose "Insert Code" abd select "Call Web Service Operation":
+
+
+Expand to and select "getVersion".
+
+The method call should be added to the class and be ready to use:
+
+
+Now to the end of our main we add a call to the method and print out the results:
+
 
