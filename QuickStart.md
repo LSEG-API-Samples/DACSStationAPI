@@ -43,7 +43,7 @@ In the web browser adress window, enter:
 
 One should see the WSDL definitions, as this is the way that the quickstart project will be set up, and how the resulting application will access the web service:
 
-![DACSWSURL](https://github.com/TR-API-Samples/Quickstart.DACSStationAPI/blob/master/DACSWSURL.gif)
+![DACSWSURL](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/DACSWSURL.gif)
 
 
 
