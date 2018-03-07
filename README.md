@@ -28,7 +28,7 @@ http://MY_DACS_HOST:MY_WS_PORT/DacsWS/DacsWebServiceService?wsdl
 
 One should see the WSDL definitions, as this is the way that the project will set it up and the application will access it.
 
-
+![DACSWSURL](https://github.com/TR-API-Samples/Quickstart.DACSStationAPI/blob/master/DACSWSURL.gif)
 
 ## Creating Netbeans project
 
