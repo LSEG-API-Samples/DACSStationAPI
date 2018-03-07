@@ -7,12 +7,12 @@ This Quickstart guide will show how to get one's first DACS Station API client a
 
 Together, we will examine the following steps: 
 
-*  Creating Netbeans project
-*  Adding web services client reference to the project
-*  Submitting a simple request to DACS Web Services, then verifying it's result 
-
+* Creating Netbeans project
+* Adding web services client reference to the project
+* Submitting a simple request to DACS Web Services, then verifying it's result  
 
 ## Creating Netbeans Project
+
 
 #### Download Netbeans
 
@@ -21,7 +21,17 @@ Go to:
 
 [https://netbeans.org/downloads/](https://netbeans.org/downloads/)
 
-And choose to download the latest free Java EE IDE.  It includes web servers, Glassfish and Apache Tomcat.
+And choose to download the latest free Java EE IDE.  This download option includes web servers, Glassfish and Apache Tomcat.
+
+Install Netbeans.
+
+#### Create Netbeans Project
+
+From Netbeans menu, choose File->New Project
+
+Next, select Java Web -> Web Application:
+
+ 
 
 ## Adding Web Service Client Reference
 
