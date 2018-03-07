@@ -26,7 +26,7 @@ DACS Station API works with DACS Web Service.
 
 In the web browser adress window, enter:
 
-http://jax-ws.java.net/DacsWS/DacsWebServiceService?wsdl
+http://MY_DACS_HOST\:MY_WS_PORT/DacsWS/DacsWebServiceService?wsdl
 
 http://MY_DACS_HOSTMY_WS_PORT/DacsWS/DacsWebServiceService?wsdl
 
