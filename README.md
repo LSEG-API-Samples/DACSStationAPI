@@ -16,7 +16,7 @@ The DACS Web Service is a standard DACS feature available as of DACS 6.0.1.  DAC
 
 DACS Web Service is not intended to be used as the interface for the real-time entitlement of users. For the real-time entitlement of users, the Open DACS API is available.
 
-This Web Service is a SOAP-based document literal interface based on the standards defined by the JAX-WS 2.0/2.1 specification. For more information about JAX-WS, refer to 
+This Web Service is a SOAP-based document literal interface based on the standards defined by the JAX-WS 2.0/2.1 specification. For more information about JAX-WS, refer to: 
 
 http://jax-ws.java.net/.
 
