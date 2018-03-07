@@ -18,7 +18,7 @@ DACS Web Service is not intended to be used as the interface for the real-time e
 
 This Web Service is a SOAP-based document literal interface based on the standards defined by the JAX-WS 2.0/2.1 specification. For more information about JAX-WS, refer to: 
 
-[JAVA-WS](http://jax-ws.java.net/)
+[http://jax-ws.java.net/](http://jax-ws.java.net/)
 
 DACS Station API works with DACS Web Service.
 
@@ -26,9 +26,7 @@ DACS Station API works with DACS Web Service.
 
 In the web browser adress window, enter:
 
-[WSDL](http://MY_DACS_HOST:MY_WS_PORT/DacsWS/DacsWebServiceService?wsdl)
-
-http://MY_DACS_HOSTMY_WS_PORT/DacsWS/DacsWebServiceService?wsdl
+[http://MY_DACS_HOST:MY_WS_PORT/DacsWS/DacsWebServiceService?wsdl](http://MY_DACS_HOST:MY_WS_PORT/DacsWS/DacsWebServiceService?wsdl)
 
 One should see the WSDL definitions, as this is the way that the project will set it up and the application will access it.
 
