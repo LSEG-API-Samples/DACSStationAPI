@@ -108,6 +108,8 @@ In Projects pane, right-click on the newly updated Java file and select "Run fil
 
 The output should reflect the version of the DACS we are connecting to, for example:
 
-...Attributes: SUCCESS Version= 710
+run:
+Attributes: SUCCESS Version= 710
+BUILD SUCCESSFUL (total time: 9 seconds)
 
 
