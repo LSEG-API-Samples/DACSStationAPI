@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This Quickstart guide will show how to get one's first DACS Station API client application up and running.  Please note, that this API is often referred to by engineers as "DACS Web Service API".    
+This Quick Start guide will show how to get one's first DACS Station API client application up and running.  Please note, that this API is often referred to by engineers as "DACS Web Service API".    
 
 Together, we will examine the following steps: 
 
