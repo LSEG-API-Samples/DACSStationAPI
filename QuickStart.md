@@ -104,3 +104,10 @@ Now to the end of our main we add a call to the method and print out the results
 
 ![getVersionCall](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/getVersionCall.gif)
 
+In Projects pane, right-click on the newly updated Java file and select "Run file".
+
+The output should reflect the version of the DACS we are connecting to, for example:
+
+Attributes: SUCCESS Version= 710
+
+
