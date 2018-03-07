@@ -1,5 +1,6 @@
 # DACS Station API - Quick Start Guide
 
+
 ## Introduction
 
 This Quickstart guide will show how to get one's first DACS Station API client application up and running.  Please note, that this API is often referred to by engineers as "DACS Web Service API".    
@@ -9,6 +10,7 @@ Together, we will examine the following steps:
 * Creating Netbeans project
 * Adding web services client reference to the project
 * Submitting a simple request to DACS Web Services, then verifying it's result 
+
  
 ## Overview
 
@@ -22,6 +24,7 @@ This Web Service is a SOAP-based document literal interface based on the standar
 
 DACS Station API works with DACS Web Service.
 
+
 ## Getting Ready To Install (Sanity Check)
 
 In the web browser adress window, enter:
@@ -32,8 +35,11 @@ One should see the WSDL definitions, as this is the way that the project will se
 
 ![DACSWSURL](https://github.com/TR-API-Samples/Quickstart.DACSStationAPI/blob/master/DACSWSURL.gif)
 
+
 ## Creating Netbeans project
 
+
 ## Adding webservices client reference to it
+
 
 ## Submitting a simple request to DACS Web Services, then verifying it's result 
