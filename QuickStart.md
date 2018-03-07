@@ -59,8 +59,14 @@ New -> Web service client
 
 Next, pick "WSDL URL" and type the URL verified in the previous step:
 
+![WebServiceClient](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/WebServiceClient.gif)
 
-Click "Finish"
+Click "Finish".
+
+Now, by expanding MY_PROJECT-> Web Service References in the Projects pane, we verify that DacsWebService is ready to be used,
+complete with all the method calls:
+
+![WebServiceClientReference](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/Web%20ServiceClientReference.gif)
 
 ## Submitting a Simple Request
 
