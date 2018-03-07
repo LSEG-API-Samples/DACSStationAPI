@@ -8,7 +8,7 @@ This Quickstart guide will show how to get one's first DACS Station API client a
 Together, we will examine the following steps: 
 
 * Creating Netbeans project
-* Adding web services client reference to the project
+* Including web services client reference to the project
 * Submitting a simple request to DACS Web Services, then verifying it's result  
 
 ## Creating Netbeans Project
@@ -33,7 +33,13 @@ Next, select Java Web -> Web Application:
 
 [NetBeans_WebApplication](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/NetBeans_WebApplication.gif)
 
-## Adding Web Service Client Reference
+Click "Next", pick new project name and location.
+
+Clieck "Next", then "Next" again (leaving default web server) and click "Finish".
+
+The project is ready to be enriched with web service cleint reference.
+
+## Including Web Service Client Reference
 
 #### Getting Ready To Install (Sanity Check)
 
@@ -43,10 +49,19 @@ In the web browser adress window, enter:
 
 One should see the WSDL definitions, as this is the way that the quickstart project will be set up, and how the resulting application will access the web service:
 
-![DACSWSURL](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/DACSWSURL.gif)
+![DACSWSURL](https://github.com/TR-API-Samples/Quickstart.DACSStationAPI/blob/master/DACSWSURL.gif)
+
+#### Adding Web Service Client Reference
+
+In the projects pane, right-click on the newly-created project, selecting
+
+New -> Web service client
+
+Next, pick "WSDL URL" and type the URL verified in the previous step:
 
 
-
+Click "Finish"
 
 ## Submitting a Simple Request
+
 
