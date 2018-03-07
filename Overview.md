@@ -2,9 +2,9 @@
 
 #### Audience
 
-DACS Station API is primarily intended to be used by DACS system administrators, to automate some tasks that need to be run repeatedly.  
+DACS Station API is mainly intended for DACS system administrators, a common use case is to automate administrative tasks that need to run repeatedly, many times.  
 
-It's usage requires:
+DACS Station API's usage requirements:
 
 *  Solid undestrating of DACS
 *  Approval by and access to privileged DACS credenatials from DACs Site Administrator (you will be trusted to modify DACS)
