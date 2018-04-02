@@ -121,3 +121,34 @@ this time choosing "getApplicationList".
 
 Add the following code to parse and lay out the results:
 
+![callAndParseApplicationList](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/callAndParseApplicationList.gif)
+
+Run the file again, and see the parsed list of the applications defined within the DACS, complete with their names and ids.
+
+For example:
+
+```
+run:
+getVersion Result: Operation Success
+Attributes: SUCCESS Version= 710
+getApplicationList Result: Operation Success
+Attributes: SUCCESS
+Application Name=APH, Application ID=187
+Application Name=AW, Application ID=9
+Application Name=Adfin, Application ID=140
+Application Name=Alert Server, Application ID=194
+Application Name=Applix_RTSS, Application ID=128
+Application Name=Arena, Application ID=155
+Application Name=Aspen Graphics, Application ID=163
+...
+```
+
+The complete Java code of this Quick Start can be found at 
+[https://github.com/TR-API-Samples/DACSStationAPI/blob/master/WSDACSTest2.java](https://github.com/TR-API-Samples/DACSStationAPI/blob/master/WSDACSTest2.java)
+
+
+This concludes the Quick Start guide of DACS Station API.
+
+
+Next, we would like to illustrate modification of DACS contents via DACS Station API calls in one of our examples found in Downloads section.
+
