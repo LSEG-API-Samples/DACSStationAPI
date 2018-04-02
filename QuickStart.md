@@ -113,3 +113,11 @@ Attributes: SUCCESS Version= 710
 BUILD SUCCESSFUL (total time: 9 seconds)
 
 
+Optionally, put your cursor after main ends, right-click, choose "Insert Code" abd select "Call Web Service Operation",
+
+this time choosing "getApplicationList".
+
+
+
+Add the following code to parse and lay out the results:
+
