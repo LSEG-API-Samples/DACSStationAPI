@@ -11,6 +11,8 @@ Together, we will examine the following steps:
 * Including web services client reference to the project
 * Submitting a simple request to DACS Web Services, then verifying it's result  
 
+Before we can begin, we need to know DACS WS host and port to connect to, and the priovileged credentials that we can use.  The person to contact is one's DACS administrator.
+
 ## Creating Netbeans Project
 
 
